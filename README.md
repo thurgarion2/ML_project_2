@@ -28,6 +28,7 @@ To reproduce our results, you need the following libraries :
 5. [`seaborn`](https://seaborn.pydata.org/)
 6. [`tsfresh`](https://tsfresh.readthedocs.io/en/latest/)
 7. [`fast.ai`](https://docs.fast.ai/)
+8. [`scikit-learn`](https://scikit-learn.org/stable/)
 
 ## Dataset
 
