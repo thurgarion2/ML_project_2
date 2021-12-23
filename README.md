@@ -2,7 +2,7 @@
 
 ## Notebooks
 
-We provide multiple notebooks containing codes specific to each experiements :
+We provide multiple notebooks containing codes specific to each experiements. We don't have a final model as we find that the dataset is not really suitable to predict the reaction of the mouse.
 
 1. Exploratory analysis:
    [`src/exploratory_analysis.ipynb`](https://github.com/thurgarion2/ML_project_2/blob/master/src/exploratory_analysis.ipynb)
@@ -32,4 +32,4 @@ To reproduce our results, you need the following libraries :
 
 ## Dataset
 
-You can download our dataset [`here`](https://drive.google.com/file/d/1zIp6lg7Dm78pM73qacRh_OdR8bT7bIBv/view?usp=sharing). 
+You can download our dataset [`here`](https://drive.google.com/file/d/1zIp6lg7Dm78pM73qacRh_OdR8bT7bIBv/view?usp=sharing).
